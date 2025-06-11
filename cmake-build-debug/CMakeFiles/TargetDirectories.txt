@@ -1,3 +1,0 @@
-/Users/ivanmaze/Documents/Software Engineering/Code/CPP/Developing_CPP/cmake-build-debug/CMakeFiles/Developing_CPP.dir
-/Users/ivanmaze/Documents/Software Engineering/Code/CPP/Developing_CPP/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ivanmaze/Documents/Software Engineering/Code/CPP/Developing_CPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

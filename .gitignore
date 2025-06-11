@@ -1,0 +1,14 @@
+# Ignore build directories
+/build/
+/cmake-build-debug/
+
+# Cache and temp files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+*.cmake
+*.o
+*.obj
+*.exe
+*.out
+*.log
